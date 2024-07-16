@@ -8,3 +8,21 @@
   <li>Used Swagger for API documentation.</li>
   <li>Implemented robust RESTful APIs to facilitate seamless communication between services, enabling efficient data exchange and streamlined workflows.</li>
 </ul>
+
+<h2>Technologies Used</h2>
+<h4>Backend (Exam Backend)</h4>
+<ul>
+  <li>Spring Boot 3</li>
+  <li>Spring Security</li>
+  <li>JWT Token Authentication</li>
+  <li>Spring Data JPA</li>
+  <li>Lombok</li>
+</ul>
+<h4>Frontend (ExamPortal_UI)</h4>
+<ul>
+  <li>Angular 17</li>
+  <li>Component-Based Architecture</li>
+  <li>Authentication Guard</li>
+  <li>Angular Material UI</li>
+  <li>Bootstrap</li>
+</ul>
